@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "demoproject-chat-mani-mldx",
+  "private_key_id": "10c78138effa4ed1a8c97600e12a9bbb30413ccf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQU9uI9YgmJhlB\noqiwKPjqNVvfJ1tdSp/gbjFuz3MWdy+Ot7uuWI7IPyJWLMNuqppK3jQOgAHPfgvO\nO4lIglPssPeyWjST4DQz0dETcQ3sDvjaoqxw7JK32tzPU5BjhZj5BNk3nDl4vQHn\nq8/a6xeIVqZx7oZ3rivAmVUWuPmMKi4tVOz9eBevD2UfA7mabtx41/QSjHRrjtmp\nHkbwGj/AJgljrFR+dNVf9WRxGnhkkr41i5WkMd/+/xN6JbcIgOWbPsCiF8nLQOkm\ne4h+B8YeCEyBIbJb1lvN8EWFWN+YkiiWwrlj0WSKFVogDmaGBkgm2omFstHT9Yq7\nMAUuLLSZAgMBAAECggEAJKmVWZGIT9plmHj1Qec8Aw+35tpIyG7BGyCZX3xvrxTz\nkCTCiUi5fAEsXEkNbbTlaWaYd7LMXsU6c6VjoBibh2yPctpQJXQQC8yRhF/hiNkL\nr4JwYYEowuVn9a6pmvIgfTZ+ubwrGxX8N1azwj2cSxiguy00iexjc8YoRNLxy9ox\nMkLDY9PXtiYEA6ZKpsDkU9UTcyar9gJzEM7jTkGmigfZC+jZWjsxgCL55vdhO4My\nQWkXhGtwW+q443tBxZzKK6fZPHSBczJ0vTbTk4RAZgJ2GjF863MyjC8N9HR3NaBL\n6UO6r0gD+Jh/C+wnWMol9VhN8S2NQuxUwF2BPGbDfwKBgQDqX/A3XQk9mN33YVJc\nZ+T+Ac/Mnz2AfawVUpOZwJtW4CjyUu4RU5byEjSN1omr3QT+cfhvULNvndZu/dc0\nMrZn2sAJG/WKRsA6TS2xH5gXjQ9zm8TUyuKksdleLQc4AfXl1UHnVKHs2HFe825A\nW0DIXthV9cd+Ru5IIZqG3emsbwKBgQDjjKuOcsgGOVuhk5oeMUW8ZmAwaaOmrrH3\nhyQu12wR0qxk4S3WP7U90tp2hIS98vDIWf2mE4DRoqtIWw20H+zKB8nuYAoq1lpw\nup3JHH7BSHL1DGSN0Q1Uarp26O3VqmXvSSFKB5QqiZO90I/2SoX0/RAUKoFAhKiI\nsPNs75vDdwKBgGCj5Hn/m8LRWJ0bfQlrMYnnF1bpRkPIDf/Qx9m7CJJe5aNdvJpa\nXEA+b3sYvjWmcdu1BNppbUOV0oh7lJQKYRobodlftPQqTjL8Bd4mB+GWIYvq69NO\nQPvl9ZoWeQaIEGuPbphDVm1BpiWfvJM+zUyRhySSroqMFs6ZRI1dzW9zAoGAMd6T\nfq2jLtIFRf0OSs2rpeWd8R5F0nL45/HDOUzXD3TneVhsbkcaFomOfWj/mo2SvaYT\nVAF0Ov12om3qK+7PO1vHoqmDsO23dns/t2K6WOvi3dewdfA6BqU5ZnQYI7qrimyx\nkgLlMwlhyrjZxDWC9DU9/91s5FHuib6WKuq8bXMCgYEAywFdidKpMcOnFWl+GBLu\ndt/2cKmSJz5Qhpgf4MMDxHPJ2FQuY7MmDCzqbxHKgNBheKzANDHYFv+AImTed2Hg\n5u6efPFAdSS8I7n5tk1MZjie1hiYRjK18v2xGRRXE5+4Cg+N3oGtaVN/2fTpqwmW\njX1dEYWmQy7M7xfvakUuCgk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "demodialogflowmani@demoproject-chat-mani-mldx.iam.gserviceaccount.com",
+  "client_id": "115344146634572527830",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demodialogflowmani%40demoproject-chat-mani-mldx.iam.gserviceaccount.com"
+}

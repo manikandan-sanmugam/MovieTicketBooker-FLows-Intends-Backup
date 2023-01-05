@@ -1,0 +1,30 @@
+<!doctype>
+<html>
+    <head>
+        <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+        <script>
+            const dialogflow = require('dialogflow');
+            const client = new dialogflow.v2.SessionsClient({
+                keyFilename: '/demoproject-chat-mani-mldx-10c78138effa.json'
+            });
+            const sessionId = uuid.v4();
+            client.detectIntent({
+                session: sessionId,
+                queryInput: {
+                    text: {
+                        text: 'Hello',
+                        languageCode: 'en-US'
+                    }
+                }
+            });
+        </script>
+    </head>
+    <body>
+        <h1>Chatbot</h1>
+        <df-messenger 
+                      chat-title="My First GCCP Project" 
+                      agent-id="demoproject-mani" 
+                      language-code="en">
+        </df-messenger>
+    </body>
+</html>
