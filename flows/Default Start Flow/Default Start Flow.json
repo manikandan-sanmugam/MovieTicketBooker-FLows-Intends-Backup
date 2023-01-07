@@ -12,6 +12,7 @@
         "languageCode": "en"
       } ]
     },
+    "targetPage": "Ticket confirm",
     "name": "fd0462c5-6ee1-4560-95b6-2d7883a62e98"
   } ],
   "eventHandlers": [ {
